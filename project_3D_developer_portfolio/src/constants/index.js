@@ -192,7 +192,7 @@ const projects = [
       },
     ],
     image: carrent,
-    source_code_link: "https://plexoshop.vercel.app/",
+    source_code_link: "https://github.com/Sickcop/Airport-project",
   },
   {
     name: "Event Manager",
@@ -213,7 +213,7 @@ const projects = [
       },
     ],
     image: jobit,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/Sickcop/technical-test",
   },
   {
     name: "Plexo E-commerce",
