@@ -187,16 +187,8 @@ const projects = [
       "Air port land page project made with Angular",
     tags: [
       {
-        name: "react",
+        name: "angular",
         color: "blue-text-gradient",
-      },
-      {
-        name: "mongodb",
-        color: "green-text-gradient",
-      },
-      {
-        name: "tailwind",
-        color: "pink-text-gradient",
       },
     ],
     image: carrent,
@@ -229,12 +221,8 @@ const projects = [
       "A full Stack team project made for the final activitie of a bootcamp",
     tags: [
       {
-        name: "nextjs",
+        name: "react",
         color: "blue-text-gradient",
-      },
-      {
-        name: "supabase",
-        color: "green-text-gradient",
       },
       {
         name: "css",
