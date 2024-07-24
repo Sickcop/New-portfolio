@@ -182,9 +182,9 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "Airport project",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "Air port land page project made with Angular",
     tags: [
       {
         name: "react",
@@ -200,12 +200,12 @@ const projects = [
       },
     ],
     image: carrent,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://plexoshop.vercel.app/",
   },
   {
-    name: "Job IT",
+    name: "Event Manager",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "Web application made with react that enables consume Event brite API, and also you can find a form and create and delete events",
     tags: [
       {
         name: "react",
@@ -224,9 +224,9 @@ const projects = [
     source_code_link: "https://github.com/",
   },
   {
-    name: "Trip Guide",
+    name: "Plexo E-commerce",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "A full Stack team project made for the final activitie of a bootcamp",
     tags: [
       {
         name: "nextjs",
@@ -242,7 +242,7 @@ const projects = [
       },
     ],
     image: tripguide,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/LizethVictoria20/Final-Project---BootcampUTP",
   },
 ];
 
